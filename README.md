@@ -14,8 +14,6 @@ A great notebook from kaggle, a huge source of learning.<br/><br/>
   <b>AdaBoostClassifier<br/><b/>
   <b>GradientBoostingClassifier<br/><b/>
   <b>SVM<b/><br/>
-    
-8. Preparing our prediction for submission <br/>
 
 [Stacking-ensembling](https://mlwave.com/kaggle-ensembling-guide/)<br/>
 [Stacking-ensembling-source-2](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)<br/>
