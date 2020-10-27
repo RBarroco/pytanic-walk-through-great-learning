@@ -1,5 +1,3 @@
-# pytanic-walk-through-great-learning
-
 # [PYTANIC](https://www.kaggle.com/headsortails/pytanic)<br/>
 A great notebook from kaggle, a huge source of learning.<br/><br/>
 
@@ -15,7 +13,7 @@ A great notebook from kaggle, a huge source of learning.<br/><br/>
   <b>ExtraTreesClassifier<br/><b/>
   <b>AdaBoostClassifier<br/><b/>
   <b>GradientBoostingClassifier<br/><b/>
-  <b>SVM<br/><b/>
+  <b>SVM<b/><br/>
     
 8. Preparing our prediction for submission <br/>
 
