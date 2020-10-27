@@ -9,12 +9,14 @@ A great notebook from kaggle, a huge source of learning.<br/><br/>
 4. Missing values <br/>
 5. Derived (engineered) features <br/>
 6. Preparing for modelling <br/>
+
 7. Modelling <br/>
   <b>RandomForestClassifier<br/><b/>
   <b>ExtraTreesClassifier<br/><b/>
   <b>AdaBoostClassifier<br/><b/>
   <b>GradientBoostingClassifier<br/><b/>
   <b>SVM<br/><b/>
+    
 8. Preparing our prediction for submission <br/>
 
 [Stacking-ensembling](https://mlwave.com/kaggle-ensembling-guide/)<br/>
